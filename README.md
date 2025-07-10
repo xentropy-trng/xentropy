@@ -9,4 +9,6 @@ Logging: Writes to /var/log/xentropy.log for debugging (e.g., API responses, gen
 No Built-in Random Functions: Uses only hash(), pack(), and LCG for randomness, deriving all entropy from X timestamps.<br/><br/>
 Global Function: gen_rnd_from_x($min, $max) lazily instantiates XEntropy and returns a random integer.
 
+Find more of my work on X (@h45hb4ng) or morallyrelative.com
+
 
